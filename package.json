@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "next": "14.1.3",
+    "pino-pretty": "^10.3.1",
     "react": "^18",
     "react-dom": "^18",
     "thirdweb": "1.0.0-beta-0613c372ac5ce584c58d3485bfa34eefcd323322-20240316010329"
