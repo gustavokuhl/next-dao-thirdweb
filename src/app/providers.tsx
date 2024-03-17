@@ -8,7 +8,7 @@ function Providers({
 }>) {
   return (
     <ThirdwebProvider
-      activeChain="base-sepolia-testnet"
+      activeChain="polygon"
       clientId={process.env.NEXT_PUBLIC_THIRDWEB_CLIENT_ID!}
       supportedWallets={[embeddedWallet()]}
     >
