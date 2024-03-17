@@ -4,7 +4,7 @@ import { ConnectWallet } from "@thirdweb-dev/react"
 
 export default function Home() {
   return (
-    <main className="w-full max-w-sm h-auto mx-auto flex flex-col gap-48 py-[40vh] text-center">
+    <main className="w-full  max-w-sm h-auto mx-auto flex flex-col gap-48 py-[40vh] text-center">
       <div className="flex flex-col gap-2">
         <h1 className="text-4xl font-bold">Pi3t DAO</h1>
         <p className="mb-6 text-xs mx-auto w-[200px]">
