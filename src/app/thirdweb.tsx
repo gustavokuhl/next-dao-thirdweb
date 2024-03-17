@@ -1,3 +1,3 @@
 "use client"
 
-export { ThirdwebProvider, ConnectButton } from "thirdweb/react"
+export { ConnectWallet, embeddedWallet } from "@thirdweb-dev/react"
